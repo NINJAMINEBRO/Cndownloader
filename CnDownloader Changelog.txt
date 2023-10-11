@@ -22,3 +22,5 @@ ver 1.10
 fixed bugs:
 ETC formula is now correct (credit to Marw!n)
 videos downloaded as mp3 are now detected as audios on phone
+
+(11.10.2023: Changed theme of itch download website)
