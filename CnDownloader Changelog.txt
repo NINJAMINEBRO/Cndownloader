@@ -38,3 +38,5 @@ inputs to an UI selection
 
 fixed bugs:
 when downloading mp4 with clip it doesnt show an Error message
+
+(16.10.2023): added images to itch download website
