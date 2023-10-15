@@ -9,14 +9,14 @@ handbook file
 
 changes:
 replaced renaming of files to mp3/mp4 to downloading files as mp3/mp4
----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ver 1.05
 
 fixed bugs:
 mp4 clip download now works with every starttime and not just 0
 program finished time now displays the correct time it took to download everything instead of just the time for the last link in the queue
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ver 1.10
 fixed bugs:
@@ -24,3 +24,17 @@ ETC formula is now correct (credit to Marw!n)
 videos downloaded as mp3 are now detected as audios on phone
 
 (11.10.2023: Changed theme of itch download website)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ver 1.20
+added:
+new formats: m4a, wav, ogg, webm
+
+changes:
+deep scan available for queue download
+new available version display
+link validation from '.' needs to be in link -> to 'http' '://' '.' needs to be in link
+inputs to an UI selection
+
+fixed bugs:
+when downloading mp4 with clip it doesnt show an Error message
