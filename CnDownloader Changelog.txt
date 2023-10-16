@@ -35,6 +35,7 @@ deep scan available for queue download
 new available version display
 link validation from '.' needs to be in link -> to 'http' '://' '.' needs to be in link
 inputs to an UI selection
+formats folders are only created when downloading in that format
 
 fixed bugs:
 when downloading mp4 with clip it doesnt show an Error message
