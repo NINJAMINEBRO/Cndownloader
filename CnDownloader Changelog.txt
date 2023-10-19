@@ -40,4 +40,4 @@ formats folders are only created when downloading in that format
 fixed bugs:
 when downloading mp4 with clip it doesnt show an Error message
 
-(16.10.2023): added images to itch download website
+(17.10.2023): added images to itch download website
