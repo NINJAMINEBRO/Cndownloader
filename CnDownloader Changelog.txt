@@ -5,6 +5,8 @@ more formats: video+audio(mov, wmv, avi, wma), audio(aac, flac, opus)
 
 changes:
 few changes to handbook file
+replaced Autoupdate libary with urllib.request
+moved shutdown, display title/link, ETC/downloads left into UI selection
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.20
