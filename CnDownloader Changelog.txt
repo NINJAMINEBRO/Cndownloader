@@ -8,6 +8,9 @@ few changes to handbook file
 replaced Autoupdate libary with urllib.request
 moved shutdown, display title/link, ETC/downloads left into UI selection
 
+fixed errors:
+shutdown explaination being wrong written in options file
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.20
 
