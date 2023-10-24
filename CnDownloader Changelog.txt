@@ -2,6 +2,7 @@ ver 1.30 (not released)
 
 added:
 more formats: video+audio(mov, wmv, avi, wma), audio(aac, flac, opus)
+geo-bypass to download videos that are not available in your region
 
 changes:
 few changes to handbook file
