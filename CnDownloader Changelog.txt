@@ -7,7 +7,7 @@ geo-bypass to download videos that are not available in your region
 changes:
 few changes to handbook file
 replaced Autoupdate libary with urllib.request
-moved shutdown, display title/link, ETC/downloads left into UI selection
+moved shutdown, display title/link, ETC/downloads left, extract playlist/video info -> into UI selection
 replaced symbol used for link seperation in txt file from , to > (reinstall of playlists is needed)
 
 fixed errors:
