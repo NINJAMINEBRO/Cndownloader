@@ -1,4 +1,4 @@
-ver 1.30 (not released)
+ver 1.30
 
 added:
 more formats: video+audio(mov, wmv, avi, wma), audio(aac, flac, opus)
