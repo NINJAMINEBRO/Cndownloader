@@ -8,8 +8,12 @@ changes:
 few changes to handbook file
 replaced Autoupdate libary with urllib.request
 moved shutdown, display title/link, ETC/downloads left into UI selection
+replaced symbol used for link seperation in txt file from , to > (reinstall of playlists is needed)
 
 fixed errors:
+removing multiple videos at once would crash the program
+if a video had a title , in title and user would remove that video from playlist, the program would crash because the file was written wring
+same as above with / : * " ? \ |
 shutdown explaination being wrong written in options file
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
