@@ -1,3 +1,11 @@
+ver 1.40
+
+changes:
+buttons are more uniform
+selection window open again after download finished
+removed download again question at end of download
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.30
 
 added:
