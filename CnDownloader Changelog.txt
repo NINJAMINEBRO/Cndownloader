@@ -1,4 +1,4 @@
-ver 1.40
+ver 1.40 (not realesed)
 
 changes:
 buttons are more uniform
