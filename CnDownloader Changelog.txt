@@ -8,6 +8,7 @@ changes:
 buttons are more uniform
 selection window open again after download finished
 removed download again question at end of download
+changes to handbook file
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.30
