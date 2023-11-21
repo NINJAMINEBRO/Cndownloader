@@ -1,7 +1,8 @@
 ver 1.40 (not realesed)
 
 added:
-changelog accessable from program
+changelog f/full accessable from program
+changelog accessable from program (latest)
 
 changes:
 buttons are more uniform
