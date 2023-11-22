@@ -24,7 +24,7 @@ replaced Autoupdate libary with urllib.request
 moved shutdown, display title/link, ETC/downloads left, extract playlist/video info -> into UI selection
 replaced symbol used for link seperation in txt file from , to > (reinstall of playlists is needed)
 
-fixed errors:
+fixed bugs:
 removing multiple videos at once would crash the program
 if a video had a , in the title and user would remove that video from playlist, the program would crash because the file was written wrong
 same as above with / : * " ? \ |
