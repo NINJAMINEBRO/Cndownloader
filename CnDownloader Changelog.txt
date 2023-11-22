@@ -4,6 +4,7 @@ added:
 changelog f/full accessable from program
 changelog accessable from program (latest)
 choose video download quality
+output of whats invalid with input
 
 changes:
 buttons are more uniform
