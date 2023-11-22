@@ -3,7 +3,7 @@ ver 1.40 (not realesed)
 added:
 changelog f/full accessable from program
 changelog accessable from program (latest)
-choose download quality
+choose video download quality
 
 changes:
 buttons are more uniform
