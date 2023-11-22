@@ -9,6 +9,7 @@ changes:
 buttons are more uniform
 selection window open again after download finished
 removed download again question at end of download
+made link validations -> into a queue validation (every link needs to be valid and not just 1)
 changes to handbook file
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
