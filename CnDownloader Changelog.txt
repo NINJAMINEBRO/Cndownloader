@@ -47,6 +47,7 @@ fixed bugs:
 when downloading mp4 with clip it doesnt show an Error message
 
 (17.10.2023): added images to itch download website
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ver 1.10
@@ -63,6 +64,7 @@ ver 1.05
 fixed bugs:
 mp4 clip download now works with every starttime and not just 0
 program finished time now displays the correct time it took to download everything instead of just the time for the last link in the queue
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ver 1.00
