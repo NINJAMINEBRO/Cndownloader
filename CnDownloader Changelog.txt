@@ -26,7 +26,7 @@ replaced symbol used for link seperation in txt file from , to > (reinstall of p
 
 fixed errors:
 removing multiple videos at once would crash the program
-if a video had a title , in title and user would remove that video from playlist, the program would crash because the file was written wring
+if a video had a , in the title and user would remove that video from playlist, the program would crash because the file was written wrong
 same as above with / : * " ? \ |
 shutdown explaination being wrong written in options file
 
