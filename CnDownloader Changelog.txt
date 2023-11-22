@@ -14,7 +14,7 @@ made link validations -> into a queue validation (every link needs to be valid a
 changes to handbook file
 
 fixed bugs:
-private playlist/video link crashing the program
+private playlist link crashing the program
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.30
