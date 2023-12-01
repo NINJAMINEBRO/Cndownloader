@@ -1,4 +1,4 @@
-ver 1.40 (release on 01.12.2023)
+ver 1.40
 
 added:
 changelog f/full accessable from program
