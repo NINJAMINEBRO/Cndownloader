@@ -15,6 +15,7 @@ changes to handbook file
 
 fixed bugs:
 private playlist link crashing the program
+clip active with invalid input and a valid link would be tried to download after confirm is pressed and the window close button
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.30
