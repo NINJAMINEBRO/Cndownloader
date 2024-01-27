@@ -1,3 +1,31 @@
+ver 1.50
+
+added:
+Feedback, Discord and Donate Buttons
+Update Button
+Advanced menu
+custom colors (support for basic names and HEX codes)
+reset color button
+playlist quick select with 3 available slots
+save button
+ffmpeg not installed warning
+ver and version outputs current version of the program
+invalid time input hint
+link already in queue hint for quick select
+hint if unavailable videos are found inside playlist
+
+changes:
+handbook file
+moved dev options to advanced menu
+if a video file is not found when the program tries to delete it, it'll assume it is already deleted
+warnings/errors are not red
+
+fixed bugs:
+Deleted videos not detected in surface scan
+quality selection making some videos unusable
+trying to download with clip activated and invalid time input and then closing the program would start the download with invalid settings
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.40
 
 added:
