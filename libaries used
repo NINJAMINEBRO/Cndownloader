@@ -1,0 +1,23 @@
+downloading libaries:
+  from yt_dlp -> YoutubeDL
+  from yt_dlp.utils -> download_range_func
+
+libaries used for update function:
+  from os -> mkdir, listdir, getcwd, remove, system, rename, startfile
+  from zipfile -> ZipFile
+
+GUI libaries:
+  tkinter
+
+to open links libaries:
+  webbrowser
+
+to get changelog:
+  from urllib.request -> urlopen
+
+timing libaries:
+  from time -> time
+
+text color in console libaries:
+  from io -> BytesIO
+  from colorama -> Fore, Style
