@@ -1,3 +1,14 @@
+ver 1.60
+
+changes:
+text "dev" to "save"
+text "info list" to "playlist"
+text "info vid" to "video"
+
+removed:
+clip button (now gets acivated when entering a timeframe)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.50
 
 added:
