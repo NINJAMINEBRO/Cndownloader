@@ -5,9 +5,15 @@ text "dev" to "save"
 text "info list" to "playlist"
 text "info vid" to "video"
 audio, video and quality selection are now in an Optionmenu
+update Button only appears, when an update is possible
+quality selection will now change the format to mp4 if an audio format was selected
 
 removed:
 clip button (now gets acivated when entering a timeframe)
+label for update
+
+bug fixes:
+saveing is now possible without needing to have a quick select previously
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.50
