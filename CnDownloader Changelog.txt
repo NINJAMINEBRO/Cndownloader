@@ -7,10 +7,14 @@ text "info vid" to "video"
 audio, video and quality selection are now in an Optionmenu
 update Button only appears, when an update is possible
 quality selection will now change the format to mp4 if an audio format was selected
+start label to start/s as text inside entry
+end label to end/s as text inside entry
+
 
 removed:
 clip button (now gets acivated when entering a timeframe)
 label for update
+label "for video" for starttime and endtime
 
 bug fixes:
 saveing is now possible without needing to have a quick select previously
