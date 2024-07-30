@@ -1,5 +1,8 @@
 ver 1.60
 
+added:
+FocusIn for starttime and endtime Entry to clear default text
+
 changes:
 text "dev" to "save"
 text "info list" to "playlist"
