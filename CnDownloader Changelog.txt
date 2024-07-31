@@ -2,6 +2,7 @@ ver 1.60
 
 added:
 FocusIn for starttime and endtime Entry to clear default text
+FocusOut for starttime, endtime and link Entry to restore default text when Entry is empty
 
 changes:
 text "dev" to "save"
