@@ -13,7 +13,9 @@ update Button only appears, when an update is possible
 quality selection will now change the format to mp4 if an audio format was selected
 start label to start/s as text inside entry
 end label to end/s as text inside entry
-
+quickselect can now save an infinte number of links
+quickselect is now in a dropdown list
+edit button for quickselect is now split into an "add" and "delete" button
 
 removed:
 clip button (now gets acivated when entering a timeframe)
