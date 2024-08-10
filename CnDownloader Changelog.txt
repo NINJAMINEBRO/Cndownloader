@@ -18,6 +18,7 @@ quickselect is now in a dropdown list
 edit button for quickselect is now split into an "add" and "delete" button
 the input/selection menu is now more compact, organized and structured
 reduced menu size 752x525->400x335 (2.95x smaller)
+color labels -> ###
 
 removed:
 clip button (now gets acivated when entering a timeframe)
