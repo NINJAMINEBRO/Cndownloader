@@ -28,7 +28,7 @@ label "for video" for starttime and endtime
 color labels
 
 bug fixes:
-saveing is now possible without needing to have a quick select previously
+saving is now possible without needing to have a quick select previously
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.50
