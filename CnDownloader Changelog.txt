@@ -20,6 +20,7 @@ edit button for quickselect is now split into an "add" and "delete" button
 the input/selection menu is now more compact, organized and structured
 reduced menu size 752x525->400x335 (2.95x smaller)
 handbook file
+CnDownloader save.txt (incompatible with previous versions)
 
 removed:
 clip button (now gets acivated when entering a timeframe)
@@ -29,6 +30,7 @@ color labels
 
 bug fixes:
 saving is now possible without needing to have a quick select previously
+clip feature works again (yt_dlp was out of date)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.50
