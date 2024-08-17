@@ -4,6 +4,7 @@ added:
 FocusIn for starttime and endtime Entry to clear default text
 FocusOut for starttime, endtime and link Entry to restore default text when Entry is empty
 tooltips to interactive objects
+support for already downloaded videos in ETC
 
 changes:
 text "dev" to "save"
