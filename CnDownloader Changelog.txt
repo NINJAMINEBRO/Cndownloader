@@ -23,7 +23,7 @@ reduced menu size 752x525 -> 400x335 (2.95x smaller)
 handbook file
 CnDownloader save.txt (incompatible with previous versions)
 ETC rework, now supports already downloaded videos
-??? is already downloaded -> ??/?? links are already downloaded
+??? is already downloaded > ??/?? links are already downloaded
 
 removed:
 clip button (now gets acivated when entering a timeframe)
