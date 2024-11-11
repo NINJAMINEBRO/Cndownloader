@@ -1,3 +1,9 @@
+NEXT UPDATE ver 1.65
+changes:
+updated from python 3.9 to 3.13
+updated yt-dlp from 2023 to 10.nov.2024
+updated other libaries
+
 ver 1.62
 added:
 No Network Connection warning
