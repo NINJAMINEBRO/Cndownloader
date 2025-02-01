@@ -5,6 +5,9 @@ updated from python 3.9 to 3.13
 updated yt-dlp from 2023 to 2025
 updated other libaries
 
+fixed:
+Download not possible because of sign in request (OAuth no longer supported)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.62
 added:
