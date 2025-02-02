@@ -1,7 +1,10 @@
 ver 1.64 (NOT RELEASED)
 changes:
 audio and videos formats fused in one dropdown menu
-removed all labels
+made everything more uniform
+
+removed:
+all labels
 
 ver 1.63
 changes:
