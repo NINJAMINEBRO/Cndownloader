@@ -1,10 +1,15 @@
 ver 1.64 (NOT RELEASED)
 changes:
 audio and videos formats fused in one dropdown menu
+folder for current download always gets created
+deep scan button toggleable
 made everything more uniform
+rearanged lots of things
 
 removed:
 all labels
+video and playlist button
+surface scan button
 
 ver 1.63
 changes:
