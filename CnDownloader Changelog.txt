@@ -4,9 +4,11 @@ audio and videos formats fused in one dropdown menu
 folder for current download always gets created
 deep scan button toggleable
 made colors into a dropdown
+fused formats into a single dropdown
 focus out of entrys with clicking anywhere else instead of another entry
 made everything more uniform
 rearanged lots of things
+made windowsize smaller
 
 removed:
 all labels
