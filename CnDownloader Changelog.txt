@@ -1,5 +1,6 @@
 ver 1.64 (NOT RELEASED)
 changes:
+ETC now uses the duration of the playlist instead of the videos inside the playlist
 audio and videos formats fused in one dropdown menu
 folder for current download always gets created
 deep scan button toggleable
