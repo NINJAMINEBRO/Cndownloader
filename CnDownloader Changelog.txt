@@ -1,4 +1,4 @@
-ver 1.64 (NOT RELEASED)
+ver 1.64
 changes:
 ETC is separated with deepscan in "checking" and "downloading" parts
 ETC now uses the duration of the playlist instead of the videos inside the playlist
@@ -21,6 +21,7 @@ all labels
 video and playlist button
 surface scan button
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.63
 changes:
 OAuth system to cookies
