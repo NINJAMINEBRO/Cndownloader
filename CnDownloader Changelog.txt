@@ -1,3 +1,8 @@
+ver 1.65
+bugfix:
+videos only downloadable with best quality
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.64
 changes:
 ETC is separated with deepscan in "checking" and "downloading" parts
