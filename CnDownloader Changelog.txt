@@ -1,6 +1,6 @@
 ver 1.66
 bugfix:
-detected copyright striked videos crashing the program
+detected copyright striked videos crashing the program (this part of code was still outdated and i forgot to update it)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ver 1.65
