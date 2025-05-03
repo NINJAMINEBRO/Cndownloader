@@ -1,8 +1,14 @@
+ver 1.67
+bugfix:
+when ETC would be enabled and the program would detect a not available video it would crash
+videos that could not be downloaded would be treated as if they where and not creating the missing txt
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.66
 bugfix:
 detected copyright striked videos crashing the program (this part of code was still outdated and i forgot to update it)
----------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.65
 bugfix:
 videos only downloadable with best quality
