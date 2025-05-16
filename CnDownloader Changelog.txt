@@ -1,3 +1,8 @@
+ver 1.68
+bugfix:
+downloading a playlist with repeatedly download the first video
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.67
 bugfix:
 when ETC would be enabled and the program would detect a not available video it would crash
