@@ -1,6 +1,7 @@
 ver 1.68
 bugfix:
-downloading a playlist with repeatedly download the first video
+downloading a playlist would repeatedly download the first video
+downloading singe video would crash the program after download
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ver 1.67
