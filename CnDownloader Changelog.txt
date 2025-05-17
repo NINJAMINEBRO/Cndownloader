@@ -77,7 +77,7 @@ text "info list" to "playlist"
 text "info vid" to "video"
 audio, video and quality selection are now in an Optionmenu
 update Button only appears, when an update is possible
-quality selection will now change the format to mp4 if an audio format was selected
+quality selection will now change the format to mp4 if an video format was selected
 start label to start/s as text inside entry
 end label to end/s as text inside entry
 quickselect can now save an infinte number of links
