@@ -1,3 +1,7 @@
+ver 1.70
+bugfix:
+downloads not working after 3 videos cuz youtube new bot detection (implemented workaround)
+
 ver 1.68
 bugfix:
 downloading a playlist would repeatedly download the first video
